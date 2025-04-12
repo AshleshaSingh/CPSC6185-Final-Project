@@ -1,0 +1,52 @@
+"REGION","STATE","STATE_CODE","CLIMATE","URBAN_RURAL"
+NORTHEAST,Maine,ME,Cold,Rural Area
+NORTHEAST,Vermont,VT,Cold,Rural Area
+MIDWEST,Ohio,OH,Cold,Rural Area
+WEST,Montana,MT,Cold,Rural Area
+WEST,Idaho,ID,Cold,Rural Area
+NORTHEAST,Rhode Island,RI,Cold,Rural Area
+MIDWEST,Iowa,IA,Cold,Rural Area
+MIDWEST,South Dakota,SD,Cold,Rural Area
+SOUTH,West Virginia,WV,Cold,Rural Area
+SOUTH,Georgia,GA,Mixed-Humid,Rural Area
+MIDWEST,Minnesota,MN,Very-Cold,Rural Area
+MIDWEST,North Dakota,ND,Very-Cold,Rural Area
+NORTHEAST,Pennsylvania,PA,Cold,Urban Area
+NORTHEAST,Massachusetts,MA,Cold,Urban Area
+MIDWEST,Michigan,MI,Cold,Urban Area
+NORTHEAST,New York,NY,Cold,Urban Area
+MIDWEST,Illinois,IL,Cold,Urban Area
+NORTHEAST,Connecticut,CT,Cold,Urban Area
+MIDWEST,Wisconsin,WI,Cold,Urban Area
+WEST,Washington,WA,Cold,Urban Area
+WEST,Colorado,CO,Cold,Urban Area
+WEST,Utah,UT,Cold,Urban Area
+WEST,California,CA,Hot-Dry,Urban Area
+WEST,Nevada,NV,Hot-Dry,Urban Area
+WEST,Arizona,AZ,Hot-Dry,Urban Area
+SOUTH,Texas,TX,Hot-Humid,Urban Area
+SOUTH,Louisiana,LA,Hot-Humid,Urban Area
+WEST,Hawaii,HI,Hot-Humid,Urban Area
+WEST,Oregon,OR,Marine,Urban Area
+WEST,New Mexico,NM,Mixed-Dry,Urban Area
+SOUTH,Tennessee,TN,Mixed-Humid,Urban Area
+SOUTH,Alabama,AL,Mixed-Humid,Urban Area
+SOUTH,Virginia,VA,Mixed-Humid,Urban Area
+SOUTH,Arkansas,AR,Mixed-Humid,Urban Area
+SOUTH,South Carolina,SC,Mixed-Humid,Urban Area
+SOUTH,North Carolina,NC,Mixed-Humid,Urban Area
+MIDWEST,Missouri,MO,Mixed-Humid,Urban Area
+NORTHEAST,New Jersey,NJ,Mixed-Humid,Urban Area
+SOUTH,Oklahoma,OK,Mixed-Humid,Urban Area
+SOUTH,District of Columbia,DC,Mixed-Humid,Urban Area
+SOUTH,Maryland,MD,Mixed-Humid,Urban Area
+WEST,Alaska,AK,Very-Cold,Urban Area
+WEST,Wyoming,WY,Cold,Urban Cluster
+NORTHEAST,New Hampshire,NH,Cold,Urban Cluster
+MIDWEST,Nebraska,NE,Cold,Urban Cluster
+SOUTH,Florida,FL,Hot-Humid,Urban Cluster
+SOUTH,Delaware,DE,Mixed-Humid,Urban Cluster
+SOUTH,Kentucky,KY,Mixed-Humid,Urban Cluster
+MIDWEST,Indiana,IN,Mixed-Humid,Urban Cluster
+MIDWEST,Kansas,KS,Mixed-Humid,Urban Cluster
+SOUTH,Mississippi,MS,Mixed-Humid,Urban Cluster
