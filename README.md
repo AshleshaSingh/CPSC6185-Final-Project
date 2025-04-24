@@ -21,7 +21,6 @@ CPSC6185-Final-Project/
 ├── notebooks/        # Data exploration and modeling notebooks
 ├── app/              # Streamlit app script (app.py)
 ├── models/           # Saved model files
-├── reports/          # Final report and presentation
 ├── utils/            # Helper functions and utilities
 ├── tests/            # Unit tests
 ├── requirements.txt  # Project dependencies
