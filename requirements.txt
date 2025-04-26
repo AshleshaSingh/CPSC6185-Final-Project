@@ -13,5 +13,7 @@ seaborn==0.13.2
 # Web App
 streamlit==1.33.0
 
+joblib
+
 pytest==8.1.1
 
