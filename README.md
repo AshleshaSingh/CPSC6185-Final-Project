@@ -43,7 +43,7 @@ CPSC6185-Final-Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/CPSC6185-Final-Project.git
+   git clone https://github.com/AshleshaSingh/CPSC6185-Final-Project.git
    cd CPSC6185-Final-Project
    ```
 
