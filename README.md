@@ -89,7 +89,7 @@ CPSC6185-Final-Project/
 5. **Streamlit App**:
    Run the Streamlit app locally:
    ```bash
-   streamlit run app.py
+   streamlit run app/app.py
    ```
 
 ##  Dependencies
