@@ -22,9 +22,11 @@ CPSC6185-Final-Project/
 │   │   └── ... (other raw CSVs)
 │   ├── processed/    # Merged and cleaned dataset 2020
 │   │   ├── merged_cleaned.csv
+│   │   ├── merged_cleaned_scaled.csv
 │   │   ├── merged_with_efficiency.csv
 ├── models/          # Saved model files 
 │   ├── decision_tree_model.pkl
+│   ├── fuzzy_decision_tree_model.pkl
 ├── notebooks/        # Data exploration and modeling notebooks
 │   ├── preprocessing.ipynb
 │   ├── fuzzy_logic.ipynb
