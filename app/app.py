@@ -76,10 +76,6 @@ required_raw_features = [
 # Compute default values (medians) for all features
 default_values = {f: data[f].median() if f in data.columns else 0 for f in required_raw_features}
 
-# Verify model features
-model_features = model.feature_names_in_
-print("Model expected features:", model_features.tolist())  # Debug
-
 # Streamlit Page Title and Introduction
 st.title("Home Energy Efficiency Checker")
 st.markdown("""
@@ -141,7 +137,7 @@ for feature in required_raw_features:
     if feature not in input_df.columns:
         input_df[feature] = default_values.get(feature, 0)  # Use median or 0 for binary features
 input_df.columns = input_df.columns.astype(str)  # Ensure string column names
-print("input_df columns:", input_df.columns.tolist())  # Debug
+# print("input_df columns:", input_df.columns.tolist())  # Debug
 
 # Real-time predictions
 fuzzy_inputs = {
